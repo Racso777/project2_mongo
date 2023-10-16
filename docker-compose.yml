@@ -1,0 +1,10 @@
+version: '1.0'
+
+services:
+  mymongo:
+    image: mongo:latest
+    ports:
+      - "27017:27017"
+    volumes:
+      - /Users/oscaryu/Downloads/mp2:/mp2
+

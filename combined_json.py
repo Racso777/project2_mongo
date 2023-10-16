@@ -3,6 +3,7 @@ import json
 import os
 
 # Directory where CSV files are located
+# change it to your preference
 input_directory = '/Users/oscaryu/Downloads/mp2-data'
 
 # Initialize an empty dictionary to store data grouped by 'id'

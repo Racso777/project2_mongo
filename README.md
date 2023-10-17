@@ -2,8 +2,10 @@
 
 This project is to design a mongo docker and a python app that can access mongo docker and provide api for those accesses.
 
-This is the schema for the mongo database
+This is the schema for the mongo database.
+
 <img width="378" alt="截屏2023-10-16 下午7 17 38" src="https://github.com/Racso777/project2_mongo/assets/111296013/fa00e5b0-4eb7-4dac-810d-4daf036c5aa1">
+
 since there is no need for grouping seperately, I put all the columns in the csvs in the same group by the job id.
 
 
